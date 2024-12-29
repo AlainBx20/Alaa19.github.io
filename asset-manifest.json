@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alaa19.github.io/static/css/main.e09bff59.css",
+    "main.js": "/Alaa19.github.io/static/js/main.e55fd13e.js",
+    "index.html": "/Alaa19.github.io/index.html",
+    "main.e09bff59.css.map": "/Alaa19.github.io/static/css/main.e09bff59.css.map",
+    "main.e55fd13e.js.map": "/Alaa19.github.io/static/js/main.e55fd13e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e09bff59.css",
+    "static/js/main.e55fd13e.js"
+  ]
+}
