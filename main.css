@@ -314,3 +314,31 @@ body {
   flex-direction: column;
   height: 100%;
 }
+
+/* Specific Styles for the Projects Section */
+.project h2 {
+  font-size: 2.5rem;
+  color: #00bcd4; /* Ensure the color matches the theme */
+  margin-bottom: 20px;
+}
+
+.project ul {
+  list-style: none;
+  padding: 0;
+}
+
+.project ul li {
+  font-size: 1.2rem;
+  color: #c9d1d9;
+  line-height: 1.6;
+  margin: 10px 0;
+}
+
+/* Optional: Add an animation specific to this section */
+.project h2 {
+  animation: slide-in 1.2s ease;
+}
+
+.project ul li {
+  animation: slide-in 1.5s ease;
+}
